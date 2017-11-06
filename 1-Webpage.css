@@ -1,0 +1,165 @@
+<style type="text/css">
+			
+			
+			#topbar{
+			  border-top:underline;
+			  
+			  
+			  
+			}
+			
+			body{
+			  margin: 0;
+			  padding:0;
+			  font-style:calibri;
+			  background:#D3D3D3;
+			}
+			
+			}
+			.topbar-section{
+			 float:left;
+			 font-size:140%;
+			 position:relative;
+			 top:15px;
+			 left:15px;
+			}
+			
+			#heading1{
+			  font-weight: bold;
+			  font-size:150%;
+			  position:relative;
+			  top:10px;
+			  padding:10px 5px;
+			  
+			}
+			
+			.topbar-menu{
+			 font-weight:bold;
+			 font-color:#D3D3D3;
+			 color:gray;
+			 float:left;
+			 position:relative;
+			 top:-22px;
+			 left:75px;
+			 padding:10px 5px;
+			 padding-left:30px;
+			 font-size:120%;
+		 }
+		 
+		 .clear{
+		   clear:both;
+		 }
+		 
+		 #content1{
+		   float:left;
+		   width:300px;
+		   height:500px;
+		   background-color:white;
+		   border:white;
+		   position:relative;
+		   left:10px;
+		 }
+		 .image1{
+		  width:250px; 
+          padding: 15px 15px;
+          		  
+		 }
+		 
+		 .p{
+		    width:270px;
+			padding:20x 20px;
+			color:#4c4c4c;
+			position:relative;
+            left:10px;
+		 }
+		 
+		 #content2{
+		   float:center;
+		   width:300px;
+		   height:500px;
+		   background-color:white;
+		   border:white;
+		   position:absolute;
+		   top:10.5%;
+		   left:24%;
+		   
+		 }
+		 
+		 
+		.img{
+		   float:center-left;
+		   width:100px;
+		   margin-right:15px;
+		   padding: 15px 15px;
+		 }
+		 
+			
+	    .para{
+		   float:right;
+		   font-size:80%;
+		   color:#4c4c4c;
+		   width:150px;
+		   font-weight:bold;
+		   position:relative;
+		   right:30px; 
+		}
+		
+		.tag{
+		   float:right;
+		   position:relative;
+		   width:100px;
+		   top:-52px;
+		   right:80px;
+		}
+	
+		.hr-style{
+		  width:90%;
+		  color:#4c4c4c;
+		}
+		
+		#content3{
+		   float:center-right;
+		   width:300px;
+		   height:500px;
+		   background-color:white;
+		   border:white;
+		   position:absolute;
+		   top:10.5%;
+		   left:47%;
+		   
+		 }
+		 
+		 .img-content2{
+		   float:center-right;;
+		   width:100px;
+		   margin-right:15px;
+		   padding: 15px 15px;
+		 }
+		
+		.para1{
+		   float:right;
+		   font-size:83%;
+		   color:#4c4c4c;
+		   width:150px;
+		   font-weight:bold;
+		   position:relative;
+		   right:32px; 
+		  }
+		  
+		 #content4{
+		   float:right;
+		   
+		   width:300px;
+		   height:500px;
+		   background-color:white;
+		   border:white;
+		   position:absolute;
+		   top:10.5%;
+		   left:70%;
+		  }
+		  .ap{
+		    padding-left:10px;
+		  }
+		  
+	</style> 			
+		
